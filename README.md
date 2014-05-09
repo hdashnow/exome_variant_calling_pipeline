@@ -1,2 +1,4 @@
-exome_variant_calling_pipeline
-==============================
+bioinformatics_pipelines
+========================
+
+Analysis pipelines for bioinformatics from the Life Science Computation Centre (LSCC) at VLSCI
